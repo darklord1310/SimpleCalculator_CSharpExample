@@ -1,0 +1,12 @@
+c:\users\taruc\documents\visual studio 2013\Projects\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\bin\Debug\SimpleCalculator_CSharpExample.exe.config
+c:\users\taruc\documents\visual studio 2013\Projects\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\bin\Debug\SimpleCalculator_CSharpExample.exe
+c:\users\taruc\documents\visual studio 2013\Projects\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\bin\Debug\SimpleCalculator_CSharpExample.pdb
+c:\users\taruc\documents\visual studio 2013\Projects\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\obj\Debug\SimpleCalculator_CSharpExample.csprojResolveAssemblyReference.cache
+c:\users\taruc\documents\visual studio 2013\Projects\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\obj\Debug\SimpleCalculator_CSharpExample.exe
+c:\users\taruc\documents\visual studio 2013\Projects\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\obj\Debug\SimpleCalculator_CSharpExample.pdb
+C:\Users\Jet\Desktop\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\bin\Debug\SimpleCalculator_CSharpExample.exe.config
+C:\Users\Jet\Desktop\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\obj\Debug\SimpleCalculator_CSharpExample.exe
+C:\Users\Jet\Desktop\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\obj\Debug\SimpleCalculator_CSharpExample.pdb
+C:\Users\Jet\Desktop\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\bin\Debug\SimpleCalculator_CSharpExample.exe
+C:\Users\Jet\Desktop\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\bin\Debug\SimpleCalculator_CSharpExample.pdb
+C:\Users\Jet\Desktop\SimpleCalculator_CSharpExample\SimpleCalculator_CSharpExample\obj\Debug\SimpleCalculator_CSharpExample.csprojResolveAssemblyReference.cache
